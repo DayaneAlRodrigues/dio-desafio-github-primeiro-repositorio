@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+.título {
+    font: uppercase;
+    color:aliceblue;
+    text-align: center;
+    padding-top: 50px;
+}
+.rodapé {
+    color:aliceblue;
+    text-align: center;
+    padding-top: 80px;
+}
